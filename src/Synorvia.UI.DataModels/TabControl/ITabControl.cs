@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.Text;
 
-namespace MDD4All.UI.DataModels.TabControl
+namespace Synorvia.UI.DataModels.TabControl
 {
     public interface ITabControl
     {

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace MDD4All.UI.DataModels.TabControl
+namespace Synorvia.UI.DataModels.TabControl
 {
     public interface ITabPage
     {

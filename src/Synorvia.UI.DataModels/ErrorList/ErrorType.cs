@@ -1,4 +1,4 @@
-﻿namespace MDD4All.UI.DataModels.ErrorList
+﻿namespace Synorvia.UI.DataModels.ErrorList
 {
     public enum ErrorType
     {

@@ -1,4 +1,4 @@
-﻿namespace MDD4All.UI.DataModels.DragDrop
+﻿namespace Synorvia.UI.DataModels.DragDrop
 {
     public class DragDropInformation
     {

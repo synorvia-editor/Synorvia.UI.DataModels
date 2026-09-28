@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace MDD4All.UI.DataModels.ErrorList
+namespace Synorvia.UI.DataModels.ErrorList
 {
     public interface IErrorList
     {

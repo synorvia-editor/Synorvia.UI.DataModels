@@ -1,6 +1,6 @@
 ﻿using System.Collections.ObjectModel;
 
-namespace MDD4All.UI.DataModels.Tree
+namespace Synorvia.UI.DataModels.Tree
 {
     public interface ITree
     {

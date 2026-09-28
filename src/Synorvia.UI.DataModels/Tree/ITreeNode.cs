@@ -1,8 +1,8 @@
-﻿using MDD4All.UI.DataModels.DragDrop;
+﻿using Synorvia.UI.DataModels.DragDrop;
 using System;
 using System.Collections.ObjectModel;
 
-namespace MDD4All.UI.DataModels.Tree
+namespace Synorvia.UI.DataModels.Tree
 {
     public interface ITreeNode
     {

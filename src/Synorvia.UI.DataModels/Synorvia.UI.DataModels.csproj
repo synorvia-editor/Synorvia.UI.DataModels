@@ -2,12 +2,8 @@
 
     <PropertyGroup>
         <TargetFramework>netstandard2.0</TargetFramework>
-        <!-- The id on nuget.org is oalt's, and what is published there is from March
-             2023 - before the drag-and-drop and error-list models that our components use.
-             So this goes out under a name of its own. Library, author and copyright stay
-             his. -->
-        <PackageId>Synorvia.UI.DataModels</PackageId>
-        <Version>2.1.0.0</Version>
+        <!-- Forked from oalt's MDD4All.UI.DataModels and renamed, so the two never meet in one build. Author and copyright stay his. -->
+        <Version>2.0.0.0</Version>
         <Authors>MDD4All.de</Authors>
         <Company>MDD4All.de</Company>
         <Description>Data models for UI components</Description>
@@ -15,8 +11,6 @@
         <PackageReadmeFile>Nuget.md</PackageReadmeFile>
         <PackageLicenseExpression>MIT</PackageLicenseExpression>
         <PackageTags>UI DataModels</PackageTags>
-        <SignAssembly>True</SignAssembly>
-        <AssemblyOriginatorKeyFile>MDD4All_Github.snk</AssemblyOriginatorKeyFile>
     </PropertyGroup>
 
     <PropertyGroup>
